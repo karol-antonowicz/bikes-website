@@ -43,4 +43,5 @@ body {
 #main-navigation a.current{                     /* I want to style this a lil bit different */
     background: #8f746c;
     border-radius: 4px;
+    color:white;
 }
